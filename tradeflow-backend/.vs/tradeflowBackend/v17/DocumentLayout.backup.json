@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tradeflowBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\models\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\models\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\models\\finnhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\models\\finnhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\models\\apisetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\models\\apisetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\models\\stocksetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\models\\stocksetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|d:\\tradeflowbackend\\tradeflowbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{748269F4-E7CA-41F1-BA5A-77CE7CF33E00}|tradeflowBackend\\tradeflowBackend.csproj|solutionrelative:tradeflowbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "tradeflowBackend\\appsettings.json",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\appsettings.json",
+              "RelativeToolTip": "tradeflowBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T01:15:51.99Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\Program.cs",
+              "RelativeDocumentMoniker": "tradeflowBackend\\Program.cs",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\Program.cs",
+              "RelativeToolTip": "tradeflowBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:15:45.923Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockData.cs",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\StockData.cs",
+              "RelativeDocumentMoniker": "tradeflowBackend\\Models\\StockData.cs",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\StockData.cs",
+              "RelativeToolTip": "tradeflowBackend\\Models\\StockData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:15:36.635Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\Services\\StockService.cs",
+              "RelativeDocumentMoniker": "tradeflowBackend\\Services\\StockService.cs",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\Services\\StockService.cs",
+              "RelativeToolTip": "tradeflowBackend\\Services\\StockService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:15:14.275Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "tradeflowBackend\\Controllers\\StocksController.cs",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "tradeflowBackend\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:15:23.309Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockSetting.cs",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\StockSetting.cs",
+              "RelativeDocumentMoniker": "tradeflowBackend\\Models\\StockSetting.cs",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\StockSetting.cs",
+              "RelativeToolTip": "tradeflowBackend\\Models\\StockSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:53:22.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiSetting.cs",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\ApiSetting.cs",
+              "RelativeDocumentMoniker": "tradeflowBackend\\Models\\ApiSetting.cs",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\ApiSetting.cs",
+              "RelativeToolTip": "tradeflowBackend\\Models\\ApiSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:53:02.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "tradeflowBackend\\Models\\User.cs",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\User.cs",
+              "RelativeToolTip": "tradeflowBackend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:00:34.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockMapper.cs",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\Mappers\\StockMapper.cs",
+              "RelativeDocumentMoniker": "tradeflowBackend\\Mappers\\StockMapper.cs",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\Mappers\\StockMapper.cs",
+              "RelativeToolTip": "tradeflowBackend\\Mappers\\StockMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:26:33.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Finnhub.cs",
+              "DocumentMoniker": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\Finnhub.cs",
+              "RelativeDocumentMoniker": "tradeflowBackend\\Models\\Finnhub.cs",
+              "ToolTip": "D:\\tradeflowBackend\\tradeflowBackend\\Models\\Finnhub.cs",
+              "RelativeToolTip": "tradeflowBackend\\Models\\Finnhub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:43:23.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

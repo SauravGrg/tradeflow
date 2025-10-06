@@ -1,0 +1,6 @@
+@tradeflowBackend_HostAddress = http://localhost:5144
+
+GET {{tradeflowBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+.gridContainer {
+  display: grid;
+  grid-template-columns: 1fr 4fr 2fr;
+  gap: 10px;
+}
+
+.navBar {
+  background-color: orange;
+
+  list-style: none;
+  padding: 15px;
+}

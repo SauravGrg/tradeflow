@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "tradeflowBackend.Controllers.StocksController",
+    "Method": "GetStockInfo",
+    "RelativePath": "api/Stocks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tradeflowBackend.Controllers.StocksController",
+    "Method": "GetStock",
+    "RelativePath": "api/Stocks/{symbol}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tradeflowBackend.Controllers.StocksController",
+    "Method": "GetAllStocks",
+    "RelativePath": "api/Stocks/default",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
